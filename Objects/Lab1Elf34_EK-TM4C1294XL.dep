@@ -1,0 +1,18 @@
+Dependencies for Project 'Lab1Elf34', Target 'EK-TM4C1294XL': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::ARMCC
+F (.\main.c)(0x6686956B)(-c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\TivaWare_C_Series-2.2.0.295 --c99-I.\RTE\_EK-TM4C1294XL-IC:\Users\leo-computador\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\leo-computador\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1294NCPDT-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x6025BE2E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x6025BE2E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x6025BE2C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x6025BE24)
+I (..\TivaWare_C_Series-2.2.0.295\inc/hw_memmap.h)(0x666BFCC0)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/debug.h)(0x666BFCBC)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/gpio.h)(0x666BFCBC)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/pin_map.h)(0x666BFCBC)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/sysctl.h)(0x666BFCBC)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/systick.h)(0x666BFCBC)
+I (..\TivaWare_C_Series-2.2.0.295\driverlib/uart.h)(0x666BFCBC)
+I (..\TivaWare_C_Series-2.2.0.295\inc/hw_types.h)(0x666BFCC0)
+F (..\TivaWare_C_Series-2.2.0.295\examples\boards\ek-tm4c1294xl\blinky\startup_rvmdk.S)(0x666BFCBE)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_EK-TM4C1294XL-IC:\Users\leo-computador\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\leo-computador\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "TM4C1294NCPDT SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (C:\ti\TivaWare_C_Series-2.2.0.295\driverlib\rvmdk\driverlib.lib)(0x668649E8)()
+F (.\readme.txt)(0x66869892)()
