@@ -2,7 +2,6 @@
 
 ##############################################################################*/
 
-//TivaWare uC: Usado internamente para identificar o uC em alguns .h da TivaWare
 #define PART_TM4C1294NCPDT 1
 #include <string.h>
 #include <stdint.h>
